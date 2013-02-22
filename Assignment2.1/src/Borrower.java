@@ -37,7 +37,7 @@ public class Borrower extends Person{
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Cprno c = new Cprno (1704914004L);
+		Cprno c = new Cprno (1704914006L);
 		Person l1 = new Borrower("Jonna Merks", c, "Skjoldhøj 128", "Romance", true, "jonnamerks@gmail.com");
 		System.out.println(l1);
 	}
